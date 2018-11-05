@@ -1,0 +1,1 @@
+Permite la escritura del lugar de aclaraciones al proceso de contratación

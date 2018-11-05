@@ -1,0 +1,13 @@
+{
+  "definitions": {
+    "Tender": {
+      "properties": {
+        "enquiriesAddress": {
+          "$ref": "#/definitions/Address",
+          "description": "Lugar de aclaración del proceso",
+          "title": "Lugar de aclaración"
+        }
+      }
+    }
+  }
+}
