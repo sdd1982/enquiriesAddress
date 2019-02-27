@@ -1,1 +1,17 @@
-{"name":{"en":"enquiriesAddress"},"description":{"en":"Permite la escritura del lugar de aclaraciones al proceso de contratación"},"documentationUrl":{"en":"https://github.com/sdd1982/enquiriesAddress/blob/master/README.md"}}
+{
+  "name": {
+    "en": "enquiriesAddress"
+  },
+  "description": {
+    "en": "Permite la escritura del lugar de aclaraciones al proceso de contratación"
+  },
+  "documentationUrl": {
+    "en": "https://github.com/sdd1982/enquiriesAddress/blob/master/README.md"
+  },
+  "schemas": [
+    "release-schema.json"
+  ],
+  "compatibility": [
+    "1.1"
+  ]
+}
